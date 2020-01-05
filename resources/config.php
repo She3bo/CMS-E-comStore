@@ -6,9 +6,9 @@ session_start();
 defined("DS") ? null : define("DS",DIRECTORY_SEPARATOR);
 
 
-defined("TEMPLATE_FRONT") ? null : define("TEMPLATE_FRONT",__DIR__ . DS . "templates" . DS . "front");
+defined("TEMPLATE_FRONT") ? null : define("TEMPLATE_FRONT",__DIR__ . DS . "templates" . DS . "front" . DS);
 
-defined("TEMPLATE_BACK") ? null : define("TEMPLATE_BACK",__DIR__ . DS . "templates" . DS . "back");
+defined("TEMPLATE_BACK") ? null : define("TEMPLATE_BACK",__DIR__ . DS . "templates" . DS . "back" . DS);
 //echo TEMPLATE_BACK;
 // data base
 
