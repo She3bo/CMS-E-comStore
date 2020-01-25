@@ -9,3 +9,4 @@
                     <?php getCategory();?>
                 </div>
             </div>
+ <div class="col-md-9">

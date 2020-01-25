@@ -5,12 +5,12 @@
 
 
 <!-- Header-->
-<?php include(TEMPLATE_FRONT .  "/header.php");?>
+<?php include(TEMPLATE_FRONT .  "headers.php");?>
 
 
      <!--Navigation -->
 
-<?php include(TEMPLATE_FRONT .  "/top_nav.php");?>
+<?php include(TEMPLATE_FRONT .  "navTop.php");?>
 
          <!-- Contact Section -->
 
